@@ -1,0 +1,15 @@
+/Users/konusarakogren/Desktop/CompositeDesingPattern/bin/Debug/net5.0/CompositeDesingPattern.deps.json
+/Users/konusarakogren/Desktop/CompositeDesingPattern/bin/Debug/net5.0/CompositeDesingPattern.runtimeconfig.json
+/Users/konusarakogren/Desktop/CompositeDesingPattern/bin/Debug/net5.0/CompositeDesingPattern.runtimeconfig.dev.json
+/Users/konusarakogren/Desktop/CompositeDesingPattern/bin/Debug/net5.0/CompositeDesingPattern.dll
+/Users/konusarakogren/Desktop/CompositeDesingPattern/bin/Debug/net5.0/ref/CompositeDesingPattern.dll
+/Users/konusarakogren/Desktop/CompositeDesingPattern/bin/Debug/net5.0/CompositeDesingPattern.pdb
+/Users/konusarakogren/Desktop/CompositeDesingPattern/obj/Debug/net5.0/CompositeDesingPattern.csprojAssemblyReference.cache
+/Users/konusarakogren/Desktop/CompositeDesingPattern/obj/Debug/net5.0/CompositeDesingPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konusarakogren/Desktop/CompositeDesingPattern/obj/Debug/net5.0/CompositeDesingPattern.AssemblyInfoInputs.cache
+/Users/konusarakogren/Desktop/CompositeDesingPattern/obj/Debug/net5.0/CompositeDesingPattern.AssemblyInfo.cs
+/Users/konusarakogren/Desktop/CompositeDesingPattern/obj/Debug/net5.0/CompositeDesingPattern.csproj.CoreCompileInputs.cache
+/Users/konusarakogren/Desktop/CompositeDesingPattern/obj/Debug/net5.0/CompositeDesingPattern.dll
+/Users/konusarakogren/Desktop/CompositeDesingPattern/obj/Debug/net5.0/ref/CompositeDesingPattern.dll
+/Users/konusarakogren/Desktop/CompositeDesingPattern/obj/Debug/net5.0/CompositeDesingPattern.pdb
+/Users/konusarakogren/Desktop/CompositeDesingPattern/obj/Debug/net5.0/CompositeDesingPattern.genruntimeconfig.cache
